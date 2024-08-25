@@ -30,9 +30,12 @@ This is a simple Joke Teller web app that displays random jokes when the user cl
 - **CSS3:** For styling and responsive design.
 - **JavaScript:** For interactivity and dynamic content.
 
+##  live preview
+
+   https://jokes-generater.vercel.app/
 ## Contact
 
-For any questions or feedback, please reach out to [your email](akhileshbisht2020@gmail.com).
+For any questions or feedback, please reach out to akhileshbisht2020@gmail.com
 
 ---
 
